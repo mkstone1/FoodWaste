@@ -1,0 +1,19 @@
+.backgroundColor{
+    display: block;
+    margin-top: 0px;
+    background-color: darkseagreen;
+}
+
+.divMeasurements{
+    height: 150%;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10%;
+    font-family: "Calibri";
+    font-size: 900%;
+    color: lightseagreen;
+}
+
